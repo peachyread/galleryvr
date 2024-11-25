@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medusa Statue
+* source:	https://sketchfab.com/3d-models/medusa-statue-050017bf46f5468cbf4cafc691b725ee
+* author:	Igrium (https://sketchfab.com/Sam54123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medusa Statue" (https://sketchfab.com/3d-models/medusa-statue-050017bf46f5468cbf4cafc691b725ee) by Igrium (https://sketchfab.com/Sam54123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
