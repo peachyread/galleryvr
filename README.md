@@ -1,2 +1,2 @@
-# galleryvr
+# VR GALLERY
 museum looking
